@@ -35,6 +35,7 @@
       - name: jetbrains-toolbox
       - name: evernote
       - name: skitch
+      - name: microsoft-office
 
   tasks:
     - name: homebrew update
