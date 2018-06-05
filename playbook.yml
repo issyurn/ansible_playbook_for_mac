@@ -21,6 +21,8 @@
       - name: jq
       - name: tree
       - name: go
+      - name: mysql
+      - name: redis
 
     homebrew_cask_packages:
       - name: iterm2
