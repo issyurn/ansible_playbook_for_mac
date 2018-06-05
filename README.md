@@ -1,7 +1,7 @@
 # How to use
 
 1. Clone this repository.
-2. Run follow commands.
+2. Run following commands.
 ```sh
 # Install Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
