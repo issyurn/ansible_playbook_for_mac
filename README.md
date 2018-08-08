@@ -1,7 +1,7 @@
 # How to use
 
 1. Clone this repository.
-2. Change Directory to cloned directory.
+2. `cd` to cloned directory.
 2. Run following commands.
 ```sh
 # Install Homebrew
