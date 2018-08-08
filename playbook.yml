@@ -31,9 +31,7 @@
       - name: vagrant
       - name: google-chrome
       - name: google-japanese-ime
-      - name: slack
-      - name: chatwork
-      - name: workplace-chat
+      - name: franz
       - name: sequel-pro
       - name: jetbrains-toolbox
       - name: evernote
