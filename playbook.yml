@@ -20,7 +20,7 @@
       - name: wget
       - name: jq
       - name: tree
-      - name: go
+      - name: goenv
       - name: mysql
       - name: redis
 
@@ -31,7 +31,11 @@
       - name: vagrant
       - name: google-chrome
       - name: google-japanese-ime
-      - name: franz
+#      - name: slack
+#      - name: workplace-chat
+#      - name: chatwork
+#      - name: franz
+      - name: station
       - name: sequel-pro
       - name: jetbrains-toolbox
       - name: evernote
