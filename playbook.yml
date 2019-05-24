@@ -38,6 +38,7 @@
       - name: station
       - name: sequel-pro
       - name: jetbrains-toolbox
+      - name: visual-studio-code
       - name: evernote
       - name: skitch
       - name: microsoft-office
